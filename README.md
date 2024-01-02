@@ -1,1 +1,1 @@
-# My-Resume
+Hi, I'm Yash, an aspiring web developer. This is my first real effort towards building a real world website. I decided to start my learning journey by building my own Online Resume. I would keep updating it with all the new things that I learn along the way.
